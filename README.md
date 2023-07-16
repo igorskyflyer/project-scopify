@@ -36,11 +36,15 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-mp3size)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/mp3size)
 
+<br>
+
 ### SimpleExec
 
 > _🕺 Command. Execution. Made. Simple. ▶_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-simple-exec)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/simple-exec)
+
+<br>
 
 ### clone.js
 
@@ -48,11 +52,15 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-clone-js)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/node-clone-js)
 
+<br>
+
 ### MappedReplacer
 
 > _🗺 Zero-dependency Map and RegExp based string replacer with Unicode support. 🍁_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-mapped-replacer)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/mapped-replacer)
+
+<br>
 
 ### EncodeEntities
 
@@ -60,11 +68,15 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-encode-entities)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/encode-entities)
 
+<br>
+
 ### WindowsPackages
 
 > _💻 A Node.js module for reading the Packages registry key on Windows 10. Useful for retrieving Windows 10 installed Store applications. 📦_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-windows-packages)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/windows-packages)
+
+<br>
 
 ### RegistryAppPaths
 
