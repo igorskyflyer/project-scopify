@@ -30,10 +30,30 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 
 ## 🪄 Selection
 
-- mp3size [GitHub](https://github.com/igorskyflyer/npm-mp3size) | [npm](https://www.npmjs.com/package/mp3size)
-- SimpleExec [GitHub](https://github.com/igorskyflyer/npm-simple-exec) | [npm](https://www.npmjs.com/package/simple-exec)
-- clone.js [GitHub](https://github.com/igorskyflyer/npm-clone-js) | [npm](https://www.npmjs.com/package/node-clone-js)
-- MappedReplacer [GitHub](https://github.com/igorskyflyer/npm-mapped-replacer) | [npm](https://www.npmjs.com/package/mapped-replacer)
-- EncodeEntities [GitHub](https://github.com/igorskyflyer/npm-encode-entities) | [npm](https://www.npmjs.com/package/encode-entities)
-- WindowsPackages [GitHub](https://github.com/igorskyflyer/npm-windows-packages) | [npm](https://www.npmjs.com/package/windows-packages)
-- RegistryAppPaths [GitHub](https://github.com/igorskyflyer/npm-registry-apppaths) | [npm](https://www.npmjs.com/package/registry-apppaths)
+> mp3size
+>
+> [GitHub](https://github.com/igorskyflyer/npm-mp3size)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/mp3size)
+
+> SimpleExec
+>
+> [GitHub](https://github.com/igorskyflyer/npm-simple-exec)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/simple-exec)
+
+> clone.js
+>
+> [GitHub](https://github.com/igorskyflyer/npm-clone-js)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/node-clone-js)
+
+> MappedReplacer
+>
+> [GitHub](https://github.com/igorskyflyer/npm-mapped-replacer)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/mapped-replacer)
+
+> EncodeEntities
+>
+> [GitHub](https://github.com/igorskyflyer/npm-encode-entities)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/encode-entities)
+
+> WindowsPackages
+>
+> [GitHub](https://github.com/igorskyflyer/npm-windows-packages)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/windows-packages)
+
+> RegistryAppPaths
+>
+> [GitHub](https://github.com/igorskyflyer/npm-registry-apppaths)&nbsp;&nbsp;&nbsp;[npm](https://www.npmjs.com/package/registry-apppaths)
