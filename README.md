@@ -30,43 +30,43 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 
 ## 🪄 Selection
 
-> mp3size
+> ### mp3size
 >
 > _🧮 Calculates an estimated file size of Mp3 files. 🎶_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-mp3size)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/mp3size)
 
-> SimpleExec
+> ### SimpleExec
 >
 > _🕺 Command. Execution. Made. Simple. ▶_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-simple-exec)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/simple-exec)
 
-> clone.js
+> ### clone.js
 >
 > _🧬 A npm wrapper around a lightweight JavaScript utility allowing deep copy-by-value of nested objects, arrays and arrays of objects. 🪁_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-clone-js)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/node-clone-js)
 
-> MappedReplacer
+> ### MappedReplacer
 >
 > _🗺 Zero-dependency Map and RegExp based string replacer with Unicode support. 🍁_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-mapped-replacer)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/mapped-replacer)
 
-> EncodeEntities
+> ### EncodeEntities
 >
 > _🏃‍♂️ Fast and simple Map and RegExp based HTML entities encoder.🍁_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-encode-entities)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/encode-entities)
 
-> WindowsPackages
+> ### WindowsPackages
 >
 > _💻 A Node.js module for reading the Packages registry key on Windows 10. Useful for retrieving Windows 10 installed Store applications. 📦_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-windows-packages)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/windows-packages)
 
-> RegistryAppPaths
+> ### RegistryAppPaths
 >
 > _🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful for retrieving applications that can be launched from the command prompt. 🗃_
 >
