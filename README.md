@@ -25,3 +25,15 @@ Here's how it works: I'll carefully plan and execute the migration process, ensu
 ## 🦩 Benefits
 
 With `Project SCOPIFY`, you can expect a more organized and conflict-free package experience. No more worries about naming clashes or confusion when using my npm packages. It's all about simplifying things and making your life as a developer easier.
+
+<br>
+
+## 🪄 Selection
+
+- mp3size&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-mp3size) | [npm](https://www.npmjs.com/package/mp3size)  
+- SimpleExec&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-simple-exec) | [npm](https://www.npmjs.com/package/simple-exec)  
+- clone.js&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-clone-js) | [npm](https://www.npmjs.com/package/node-clone-js)  
+- MappedReplacer&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-mapped-replacer) | [npm](https://www.npmjs.com/package/mapped-replacer)  
+- EncodeEntities&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-encode-entities) | [npm](https://www.npmjs.com/package/encode-entities)  
+- WindowsPackages&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-windows-packages) | [npm](https://www.npmjs.com/package/windows-packages)  
+- RegistryAppPaths&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/igorskyflyer/npm-registry-apppaths) | [npm](https://www.npmjs.com/package/registry-apppaths)  
