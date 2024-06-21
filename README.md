@@ -1,6 +1,6 @@
 # Project SCOPIFY
 
-♾️ Project SCOPIFY is a monthly effort to make my unscoped npm modules scoped under my name. 🔏
+♾️ Project SCOPIFY is an effort to make my unscoped npm modules scoped under my name. 🔏
 
 <br>
 
