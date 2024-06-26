@@ -83,3 +83,12 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 > _🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful for retrieving applications that can be launched from the command prompt. 🗃_
 >
 > [🪬 GitHub](https://github.com/igorskyflyer/npm-registry-apppaths)&nbsp;&nbsp;&nbsp;[🪅 npm](https://www.npmjs.com/package/registry-apppaths)
+
+<br>
+<br>
+
+>
+>
+> Completion rate: ~**42%**.
+>
+>
