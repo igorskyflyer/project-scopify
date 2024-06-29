@@ -89,6 +89,6 @@ With `Project SCOPIFY`, you can expect a more organized and conflict-free packag
 
 >
 >
-> Completion rate: ~**57%**.
+> Completion rate: ~**71%**.
 >
 >
